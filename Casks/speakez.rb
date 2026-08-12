@@ -1,6 +1,6 @@
 cask "speakez" do
-  version "0.1.0"
-  sha256 "50148fd3362ffe013238b25a3a5157abbe755e5b6c2b8321a32c1d2fffdcfc76"
+  version "0.1.1"
+  sha256 "07cc09d843200f486bae4f1e0d62272daab6b8d3cf04e0bf44e1e5ffeb139439"
 
   url "https://github.com/AxelVandenHeuvel/speak-ez/releases/download/v#{version}/speakEZ-#{version}.zip"
   name "speakEZ"
